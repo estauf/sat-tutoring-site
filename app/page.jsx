@@ -236,3 +236,13 @@ function Quote({ text, author }) {
     </Card>
   );
 }
+
+function Faq({ q, a }) {
+  return (
+    <div className="border border-slate-200 rounded-xl p-4">
+      <div className="font-semibold">{q}</div>
+      <div className="text-slate-600 text-sm mt-1">{a}</div>
+    </div>
+  );
+}
+
