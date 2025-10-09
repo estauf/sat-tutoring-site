@@ -7,8 +7,8 @@ import { Badge } from "@/components/ui/badge";
 import { CheckCircle, BookOpen, Clock, GraduationCap, Star, ShieldCheck, Sparkles, MessageSquare } from "lucide-react";
 import "./globals.css";
 
-const CALENDLY_LINK = "https://calendly.com/your-handle/30min";
-const CONTACT_EMAIL = "your.email@example.com";
+const CALENDLY_LINK = "https://calendly.com/estauffer-college";
+const CONTACT_EMAIL = "estauffer@college.harvard.edu";
 
 export default function SATLanding() {
   return (
