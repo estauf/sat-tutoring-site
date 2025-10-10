@@ -35,7 +35,6 @@ export default function SATLanding() {
         <div>
           <div className="inline-flex items-center gap-2 mb-4">
             <Badge className="rounded-full">Harvard Student Tutor</Badge>
-            <Badge variant="secondary" className="rounded-full">1260 → 1540</Badge>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight leading-tight">
             Affordable 1‑on‑1 SAT Reading & Writing Tutoring — $20/hr
