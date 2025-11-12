@@ -40,7 +40,7 @@ export default function SATLanding() {
             Affordable 1‑on‑1 SAT Reading & Writing Tutoring — $20/hr
           </h1>
           <p className="mt-4 text-slate-600 text-lg">
-            I improved my SAT from <span className="font-semibold">1260</span> to <span className="font-semibold">1540</span>
+            Without the proper support, improving you SAT score can be hard. I improved my score from <span className="font-semibold">1260</span> to <span className="font-semibold">1540</span>
             (770 Reading/Writing, 770 Math). I now coach students with the exact
             strategies that moved my score — clear, practical, and stress‑free.
           </p>
