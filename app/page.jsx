@@ -37,7 +37,7 @@ export default function SATLanding() {
             <Badge className="rounded-full">Harvard Student Tutor</Badge>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight leading-tight">
-            Affordable 1‑on‑1 SAT Reading & Writing Tutoring — $20/hr
+            Affordable 1‑on‑1 SAT Reading & Writing Tutoring — $40/hr
           </h1>
           <p className="mt-4 text-slate-600 text-lg">
             Without the proper support, improving you SAT score can be hard. I improved my score from <span className="font-semibold">1260</span> to <span className="font-semibold">1540</span>
@@ -60,7 +60,7 @@ export default function SATLanding() {
           <FeatureCard icon={<CheckCircle className="h-5 w-5"/>} title="Personalized plan" desc="Quick diagnostic → focused weekly drills"/>
           <FeatureCard icon={<BookOpen className="h-5 w-5"/>} title="Evidence‑based" desc="Official exams & targeted passage strategies"/>
           <FeatureCard icon={<Clock className="h-5 w-5"/>} title="Flexible hours" desc="Evenings & weekends available"/>
-          <FeatureCard icon={<GraduationCap className="h-5 w-5"/>} title="Student‑friendly" desc="$20/hr to keep prep accessible"/>
+          <FeatureCard icon={<GraduationCap className="h-5 w-5"/>} title="Student‑friendly" desc="$40/hr to keep prep accessible"/>
         </div>
       </section>
 
