@@ -99,7 +99,7 @@ export default function SATLanding() {
         <div className="grid md:grid-cols-3 gap-6">
           <PriceCard
             title="Single Session"
-            price="$20"
+            price="$40"
             subtitle="per 60‑min lesson"
             bullets={["Personalized plan","Homework & notes","Progress tracker"]}
             cta="Book a lesson"
@@ -108,16 +108,16 @@ export default function SATLanding() {
           <PriceCard
             featured
             title="Starter Pack"
-            price="$90"
-            subtitle="5 lessons (save $10)"
+            price="$170"
+            subtitle="5 lessons (save $30)"
             bullets={["Goal‑based curriculum","Weekly progress updates","Parent check‑in"]}
             cta="Start now"
             link={CALENDLY_LINK}
           />
           <PriceCard
             title="Intensive"
-            price="$170"
-            subtitle="10 lessons (save $30)"
+            price="$330"
+            subtitle="10 lessons (save $70)"
             bullets={["Section‑specific mastery","Timed drills & reviews","Test‑week plan"]}
             cta="Reserve spot"
             link={CALENDLY_LINK}
